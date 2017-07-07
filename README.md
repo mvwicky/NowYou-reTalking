@@ -11,6 +11,6 @@ This shall be achieved by pulling trending topics from the web and placing those
 
 Once a topic has been clicked users are sent to the discussion page where they can vote their openion on the topic or click one of the more information links that redirects them to a reputable source on the topic. After the user has submitted their openion they are then placed in a group of other people that agree and disagree with them. Groups shall be determined by the percentage of people that that believe something.
 
-
+![discussionpg](https://user-images.githubusercontent.com/6510141/27976808-b9080f6a-632d-11e7-936e-c397657f5608.png)
 
 Users shall also be able to follow a topic by clicking the favorites button which will save the topic in the topic to the User favorites page
