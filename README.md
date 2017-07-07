@@ -6,3 +6,4 @@ Social media tells us what we want to hear. More and more we keep getting fed ou
 Now You're Talking is my solution to this. The goal of this app is to take trending contravercial topics and get a group of people who disagree to talk about it.
 
 This shall be achieved by pulling trending topics from the web and placing those topics on a easy to view list that users can then click through.
+![topicspg](https://user-images.githubusercontent.com/6510141/27975493-f746bf48-6327-11e7-9f17-d19b72615217.png)
