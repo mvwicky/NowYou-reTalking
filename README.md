@@ -13,4 +13,6 @@ Once a topic has been clicked users are sent to the discussion page where they c
 
 ![discussionpg](https://user-images.githubusercontent.com/6510141/27976808-b9080f6a-632d-11e7-936e-c397657f5608.png)
 
-Users shall also be able to follow a topic by clicking the favorites button which will save the topic in the topic to the User favorites page
+Users shall also be able to follow a topic by clicking the favorites button which will save the topic in the topic to the User favorites page.
+
+Always looking for contributors, lets make something that changes the world.
